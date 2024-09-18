@@ -15,12 +15,13 @@ Senior Software Engineer with 9+ years of experience, specializing in Frontend d
 - Tools: Git, Linear, Jira, Jenkins
 
 ## 🔥 Featured Projects
-- [Figma Variable Explorer](https://www.figma.com/community/plugin/1310888112326715990/figma-variable-explorer) - A Figma plugin with ~4000 users
-- [Raycast Notes Extension](https://www.raycast.com/tatermohit) - A Raycast extension for note-taking, used by ~250 users
+- [Figma Variable Explorer](https://www.figma.com/community/plugin/1310888112326715990/figma-variable-explorer) - A Figma plugin with >4000 users
+- [Raycast Notes Extension](https://www.raycast.com/tatermohit) - A Raycast extension for note-taking, used by >250 users
 
 ## 📫 How to reach me
-- LinkedIn: [https://www.linkedin.com/in/mohittater](https://www.linkedin.com/in/tatermohit/)
+- [Mohit Tater - LinkedIn](https://www.linkedin.com/in/tatermohit/)
 - Email: mohittater.iiita@gmail.com
+- [Mohit Tater - Portfolio [WIP]](https://tater-mohit.vercel.app)
 
 ## 📚 Check out my newsletter where I share interesting tools and products!
 - [Weekly Finds with Mohit](https://www.linkedin.com/newsletters/weekly-finds-with-mohit-7161601140642492416)
@@ -28,4 +29,4 @@ Senior Software Engineer with 9+ years of experience, specializing in Frontend d
 
 ---
 
-⭐️ From [MohitTater](https://github.com/mnttnm)
+⭐️ From [MohitTater](https://bento.me/tatermohit)
