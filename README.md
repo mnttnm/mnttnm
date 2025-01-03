@@ -20,8 +20,9 @@ Senior Software Engineer with 9+ years of experience, specializing in Frontend d
 
 ## 📫 How to reach me
 - [Mohit Tater - LinkedIn](https://www.linkedin.com/in/tatermohit/)
+- [Mohit Tater - X](https://twitter.com/tatermohit)
 - Email: mohittater.iiita@gmail.com
-- [Mohit Tater - Portfolio [WIP]](https://tater-mohit.vercel.app)
+- [Mohit Tater - Portfolio ](https://www.mohittater.in)
 
 ## 📚 Check out my newsletter where I share interesting tools and products!
 - [Weekly Finds with Mohit](https://www.linkedin.com/newsletters/weekly-finds-with-mohit-7161601140642492416)
