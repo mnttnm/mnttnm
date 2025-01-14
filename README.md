@@ -15,6 +15,7 @@ Senior Software Engineer with 9+ years of experience, specializing in Frontend d
 - Tools: Git, Linear, Jira, Jenkins
 
 ## 🔥 Featured Projects
+- [Slicely](https://github.com/mnttnm/slicely) - A concept app with support for PDF annotation and processing using AI
 - [Figma Variable Explorer](https://www.figma.com/community/plugin/1310888112326715990/figma-variable-explorer) - A Figma plugin with >4000 users
 - [Raycast Notes Extension](https://www.raycast.com/tatermohit) - A Raycast extension for note-taking, used by >250 users
 
@@ -26,7 +27,6 @@ Senior Software Engineer with 9+ years of experience, specializing in Frontend d
 
 ## 📚 Check out my newsletter where I share interesting tools and products!
 - [Weekly Finds with Mohit](https://www.linkedin.com/newsletters/weekly-finds-with-mohit-7161601140642492416)
-
 
 ---
 
